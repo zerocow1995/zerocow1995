@@ -51,6 +51,7 @@
   - 실시간 통계 게이트웨이
   - CAGENT 통계 데몬
   - CSKILL 통계 데몬
+  - UCID 업데이트 데몬
 </details>
 <details>
   <summary>삼성증권 콜센터 고도화('22.01~'22.09)</summary>
