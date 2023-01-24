@@ -31,6 +31,8 @@
   Linux
   #### 역할
   서비스 개발 및 배포
+  #### 개발 항목
+  - Softphone 게이트웨이
 </details>
 <details>
   <summary>현대해상 하이콜 고도화 프로젝트('22.01~'22.11)</summary>
@@ -45,6 +47,10 @@
   Linux
   #### 역할
   서비스 개발 및 배포
+  #### 개발 항목
+  - 실시간 통계 게이트웨이
+  - CAGENT 통계 데몬
+  - CSKILL 통계 데몬
 </details>
 <details>
   <summary>삼성증권 콜센터 고도화('22.01~'22.09)</summary>
@@ -59,4 +65,7 @@
   Linux, Docker
   #### 역할
   서비스 개발 및 배포
+  #### 개발 항목
+  - Info/AgentPush 게이트웨이
+  - 내선 모니터링 데몬
 </details>
